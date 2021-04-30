@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cifarenas
 - 👀 I’m interested in networking
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning predictive analytics 
 - 💞️ I’m looking to collaborate on sustainability
 - 📫 How to reach me ciflores@ucdavis.edu
 
